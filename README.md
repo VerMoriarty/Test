@@ -1,2 +1,2 @@
 # Test
-This is for test.
+This is for testing.
